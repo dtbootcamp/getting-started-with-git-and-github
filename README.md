@@ -1,15 +1,12 @@
 getting-started-with-git-and-github
 ===================================
 
-Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/).
+Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac OSX or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/).
 
 Git Flow
 ==================
 
-This snippet is designed to explain Vincent Driessen's [git branching model](http://nvie.com/posts/a-successful-git-branching-model/), at least as well as I understand it. Speacial thanks to [Stephen Koch](https://twitter.com/skoch) for being the true master here.
-
-This tutorial is for Linux or OSX. Feel free to use Cygwin or write a fork for windows.
-
+This snippet is designed to explain Vincent Driessen's [git branching model](http://nvie.com/posts/a-successful-git-branching-model/), at least as well as I understand it. Special thanks to [Stephen Koch](https://twitter.com/skoch) for being the true master here.
 
 A way to think about Git and Github.
 ------------
