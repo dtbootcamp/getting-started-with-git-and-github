@@ -1,7 +1,7 @@
 getting-started-with-git-and-github
 ===================================
 
-Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy)
+Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/).
 
 Git Flow
 ==================
