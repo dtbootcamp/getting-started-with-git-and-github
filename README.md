@@ -1,12 +1,24 @@
-getting-started-with-git-and-github
+Getting Started With Git and GitHub
 ===================================
 
 Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac OSX or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/). There is also a [desktop application](desktop application) for GitHub if you'd prefer to not use the Terminal.App.
 
-Git Flow
+## Some Links for more indepth learning
+### Hands on / interactive learning
+* [Learn Version Control with Git](https://www.git-tower.com/learn/ebook) A website for learning Git with a free html book.
+* [Git Immersion](http://gitimmersion.com/lab_01.html) A website with tutorial materials you download and follow along with.
+* [Try Git](http://try.github.io/levels/1/challenges/1) A 15 minute interactive website to learn the basics.
+* [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp)
+
+### Purely text based resources
+* [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) Explaining git, simplified, basically a cheatsheet.
+* [The Git Book](http://git-scm.com/book) Explains everything that's possible in lots and lots of detail.
+
+
+The Git Flow
 ==================
 
-This snippet is designed to explain Vincent Driessen's [git branching model](http://nvie.com/posts/a-successful-git-branching-model/), at least as well as I understand it. Special thanks to [Stephen Koch](https://twitter.com/skoch) for being the true master here.
+The following snippet is designed to explain Vincent Driessen's [git branching model](http://nvie.com/posts/a-successful-git-branching-model/), at least as well as I understand it. Special thanks to [Stephen Koch](https://twitter.com/skoch) for being the true master here.
 
 A way to think about Git and Github.
 ------------
